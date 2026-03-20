@@ -34,7 +34,7 @@ Designed for flexibility, extensibility, and smooth UX.
 Include the control in your project:
 
 ```xml
-xmlns:controls="clr-namespace:Noveller.Controls"
+xmlns:controls="clr-namespace:MySolution.Controls"
 ```
 
 ---
