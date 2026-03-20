@@ -306,4 +306,4 @@ Updating any of these updates the color in real time.
 
 ## 📄 License
 
-MIT (or your preferred license)
+Free To Use. Not for Commericial resale. I create these for people instead of making money from them!
